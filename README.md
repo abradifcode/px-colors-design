@@ -1,3 +1,7 @@
+#  https://medium.com/ge-design/ges-predix-design-system-8236d47b0891
+
+#  https://www.predix-ui.com/#/home
+
 # px-colors-design
 
 The Predix UI Colors module assigns Sass variables to the Px color palette.
